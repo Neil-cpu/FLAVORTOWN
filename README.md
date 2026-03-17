@@ -1,2 +1,2 @@
 # FLAVORTOWN
-Racing Game&lt;>
+Racing Game
